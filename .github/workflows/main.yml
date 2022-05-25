@@ -21,11 +21,12 @@ jobs:
       - run: yarn install
       - run: yarn lint
       - run: yarn generate
+      - run: touch dist/.nojekyll
   
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: .output/public
+          FOLDER: dist
           CLEAN: true

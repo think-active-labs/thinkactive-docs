@@ -1,6 +1,8 @@
 <template>
   <div class="flex justify-between max-w-2xl px-4 py-4 mx-auto sm:px-8 items-center">
-    <img id="site-logo" src="/logo_text.svg" alt="logo" class="w-40">
+    <a href="/" alt="home">
+      <img id="site-logo" src="/logo_text.svg" alt="logo" class="w-40">
+    </a>
     <!-- Navigation -->
     <div class="text-gray-700 dark:text-gray-200">
       <ContentNavigation v-slot="{ navigation }">

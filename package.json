@@ -1,22 +1,28 @@
 {
-  "packageManager": "yarn@1.22.18",
+  "name": "thinkactive-docs",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxi dev",
-    "build": "nuxi build",
-    "generate": "nuxi generate",
-    "preview": "nuxi preview",
-    "lint": "eslint ."
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:serve": "vitepress serve"
+  },
+  "dependencies": {
+    "@vueuse/core": "^8.6.0",
+    "vue": "^3.2.37"
   },
   "devDependencies": {
-    "@iconify/vue": "^3.2.1",
-    "@nuxt/content": "^2.0.0",
-    "@nuxtjs/color-mode": "^3.0.3",
-    "@nuxtjs/eslint-config-typescript": "^10.0.0",
-    "@nuxtjs/tailwindcss": "^5.1.2",
-    "@tailwindcss/typography": "^0.5.2",
-    "eslint": "^8.16.0",
-    "nuxt": "^3.0.0-rc.3",
-    "typescript": "^4.6.4"
+    "@iconify-json/carbon": "^1.1.5",
+    "@types/node": "^17.0.35",
+    "@unocss/reset": "^0.38.2",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "esno": "^0.16.3",
+    "fast-glob": "^3.2.11",
+    "https-localhost": "^4.7.1",
+    "unocss": "^0.38.2",
+    "unplugin-vue-components": "^0.19.6",
+    "vite-plugin-pwa": "^0.12.0",
+    "vitepress": "^1.0.0-alpha.2",
+    "workbox-window": "^6.5.3"
   }
 }

@@ -19,14 +19,13 @@ jobs:
           cache: yarn
 
       - run: yarn install
-      - run: yarn lint
-      - run: yarn generate
-      - run: touch dist/.nojekyll
+      - run: yarn docs:build
+      - run: touch .vitepress/dist/.nojekyll
   
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: dist
+          FOLDER: .vitepress/dist
           CLEAN: true

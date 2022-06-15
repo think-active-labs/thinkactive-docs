@@ -28,7 +28,7 @@ defineProps<{
       <div flex="~ inline gap-2" text-2xl>
         <a
           v-if="github"
-          class="i-carbon-logo-github inline-block !text-current op30 hover:op100 mya transition duration-200"
+          class="i-carbon:logo-github inline-block !text-current op30 hover:op100 mya transition duration-200"
           :href="`https://github.com/${github}`"
           target="_blank"
           rel="noopener noreferrer"
@@ -36,7 +36,7 @@ defineProps<{
         />
         <a
           v-if="twitter"
-          class="i-carbon-logo-twitter inline-block text-1.3em mya !text-current op30 hover:op100 transition duration-200"
+          class="i-carbon:logo-twitter inline-block text-1.3em mya !text-current op30 hover:op100 transition duration-200"
           :href="`https://twitter.com/${twitter}`"
           target="_blank"
           rel="noopener noreferrer"

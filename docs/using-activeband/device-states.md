@@ -27,10 +27,10 @@ The home screen of the device in this mode will look like this:
 The time and date will show as dashes until the device has been synced for the first time. If the device runs out of battery it may also return to not knowing the current time. A sync will restore the time back to the correct values.
 
 #### Icons
-- :icon{name="material-symbols:bluetooth" class="text-blue-400"} The presence of this icon denotes the ActiveBand is actively connected to a device.
+- <div i-material-symbols:bluetooth class="text-blue-400" /> The presence of this icon denotes the ActiveBand is actively connected to a device.
   - Whilst this is showing you will be unable to sync this device any other devices.
-- :icon{name="mdi:power-plug" class="text-red-400"} The presence of this icon denotes the ActiveBand is currently being charged.
-- :icon{name="material-symbols:battery-2-bar-sharp"} This icon shows the current battery level of the device.
+- <div i-mdi:power-plug class="text-red-400" /> The presence of this icon denotes the ActiveBand is currently being charged.
+- <div i-material-symbols:battery-2-bar-sharp /> This icon shows the current battery level of the device.
 
 #### Navigation
 - Pressing the side button will always eventually return to this screen. Depending upon how many screens deep you are in the user interface on the device.

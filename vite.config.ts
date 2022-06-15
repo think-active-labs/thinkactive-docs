@@ -100,6 +100,11 @@ export default defineConfig({
         presetAttributify(),
         presetIcons({
           scale: 1.2,
+          autoInstall: true,
+          extraProperties: {
+            'display': 'inline-block',
+            'vertical-align': 'middle',
+          },
         }),
       ],
     }),

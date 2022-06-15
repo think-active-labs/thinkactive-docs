@@ -46,7 +46,7 @@ export default defineConfig({
     logo: '/logo.svg',
 
     editLink: {
-      pattern: github + '/edit/main/docs/:path',
+      pattern: github + '/edit/main/:path',
       text: 'Suggest changes to this page',
     },
 

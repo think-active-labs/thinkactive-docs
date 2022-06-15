@@ -38,6 +38,9 @@ export default defineConfig({
       light: 'vitesse-light',
       dark: 'vitesse-dark',
     },
+    toc: {
+      level: [2]
+    },
   },
   themeConfig: {
     logo: '/logo.svg',

@@ -59,7 +59,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Build with ❤️',
+      message: 'Made with ❤️',
       copyright: 'Copyright © 2022 Think Active Labs',
     },
 

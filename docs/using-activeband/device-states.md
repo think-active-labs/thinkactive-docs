@@ -41,24 +41,19 @@ The time and date will show as dashes until the device has been synced for the f
 
 When the device is in its charging cradle it can be rebooted.
 
-::alert{color=blue}
-#title
-Earlier versions may differ
-#default
+:::info
 Earlier versions of ActiveBand on InfiniTime allowed rebooting of the device whilst off the charging cradle. This was removed in v1.9.0.
-::
+:::
 
 ##### Rebootable states
 
 When rebooting an InfiniTime device there are 3 options for reboot.
 
-::alert{color=red}
-#title
-Take care using anything other than Standard Device Reboot
-#default
+:::danger
+Take care using anything other than Standard Device Reboot.
 Holding the power button for too long will enter other reboot modes.
 In typical use of InfiniTime devices you should not use Previous Firmware Device Reboot or Recovery Mode Device Reboot. These reboot procedures should only be used if a device cannot be recovered through other means.
-::
+:::
 
 **Standard Device Reboot (Green Pinecone)**
 

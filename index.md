@@ -3,7 +3,7 @@ layout: home
 sidebar: false
 
 title: ThinkActive
-titleTemplate: Collect, Analyse and Orchestrate your distributed sensing devices
+titleTemplate: Collect, Analyse and Orchestrate
 
 hero:
   name: ThinkActive

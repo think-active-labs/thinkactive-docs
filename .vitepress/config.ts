@@ -19,7 +19,7 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
     ['link', { rel: 'alternate icon', href: '/favicon.svg', type: 'image/png', sizes: '16x16' }],
     ['meta', { name: 'author', content: `${teamMembers.map(c => c.name).join(', ')} and ${thinkActiveName} contributors` }],
-    ['meta', { name: 'keywords', content: 'vitest, vite, test, coverage, snapshot, react, vue, preact, svelte, solid, lit, ruby, cypress, puppeteer, jsdom, happy-dom, test-runner, jest, typescript, esm, tinypool, tinyspy, c8, node' }],
+    ['meta', { name: 'keywords', content: 'sensor, imu, data collection, data annotation, ios, android, bluetooth, machine learning, artificial intelligence' }],
     ['meta', { property: 'og:title', content: thinkActiveName }],
     ['meta', { property: 'og:description', content: thinkActiveDescription }],
     ['meta', { property: 'og:url', content: ogUrl }],

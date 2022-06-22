@@ -1,7 +1,7 @@
 /* Texts */
 export const thinkActiveName = 'ThinkActive'
 export const thinkActiveShortName = 'ThinkActive'
-export const thinkActiveDescription = 'Collect, Analyse and Orchestrate your distributed sensing devices. ThinkActive enables organisations, researchers and individuals to focus on their data not infrastructure'
+export const thinkActiveDescription = 'Collect, Analyse and Orchestrate your distributed sensing devices. Enabling organisations, researchers and individuals to focus on their data not infrastructure'
 
 /* CDN fonts and styles */
 export const googleapis = 'https://fonts.googleapis.com'

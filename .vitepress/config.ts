@@ -17,7 +17,7 @@ export default defineConfig({
   head: [
     ['meta', { name: 'theme-color', content: '#ffffff' }],
     ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }],
-    ['link', { rel: 'alternate icon', href: '/favicon.svg', type: 'image/png', sizes: '16x16' }],
+    ['link', { rel: 'alternate icon', href: '/favicon.svg', type: 'image/svg+xml' }],
     ['meta', { name: 'author', content: `${teamMembers.map(c => c.name).join(', ')} and ${thinkActiveName} contributors` }],
     ['meta', { name: 'keywords', content: 'sensor, imu, data collection, data annotation, ios, android, bluetooth, machine learning, artificial intelligence' }],
     ['meta', { property: 'og:title', content: thinkActiveName }],

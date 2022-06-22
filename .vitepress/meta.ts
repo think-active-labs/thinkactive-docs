@@ -1,9 +1,7 @@
-// noinspection ES6PreferShortImport: IntelliJ IDE hint to avoid warning to use `~/contributors`, will fail on build if changed
-
 /* Texts */
 export const thinkActiveName = 'ThinkActive'
 export const thinkActiveShortName = 'ThinkActive'
-export const thinkActiveDescription = 'Collect, Analyse and Orchestrate your distributed sensing devices'
+export const thinkActiveDescription = 'Collect, Analyse and Orchestrate your distributed sensing devices. ThinkActive enables organisations, researchers and individuals to focus on their data not infrastructure'
 
 /* CDN fonts and styles */
 export const googleapis = 'https://fonts.googleapis.com'

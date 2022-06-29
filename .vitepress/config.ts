@@ -31,6 +31,7 @@ export default defineConfig({
     ['link', { href: font, rel: 'stylesheet' }],
     ['link', { rel: 'mask-icon', href: '/logo.svg', color: '#ffffff' }],
     ['link', { rel: 'apple-touch-icon', href: '/apple-touch-icon.png', sizes: '180x180' }],
+    ['script', { id: 'mcjs', }, '!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c2b25b727beb0a433849f3c6a/6eafd525779ac9d7a6520d61b.js");']
   ],
   lastUpdated: true,
   markdown: {

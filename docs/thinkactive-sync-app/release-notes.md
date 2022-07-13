@@ -2,14 +2,15 @@
 
 [[toc]]
 
-## v1.1 Blue Firefly
+## v1.1.0 Blue Firefly
 
 ### New Features
 - Initial support for ThinkActive Cloud v1.2.8
 - Support for no user account workflows
 - Support for multiple firmware versions
-- Upgrade ActiveBand Comms to v2.4.14
+- Upgrade ActiveBand Comms to v2.5.1
 - New log for accelerometer bad samples
+- New batched sync routine - data is synced in batches and errors during sync no longer discard data synced up to failure
 
 ### Bug Fixes
 - Resolved issue where some Android devices would be unable to sync on cold start of application
@@ -18,8 +19,10 @@
 - Resolved crash during sync where commands timeout
 - Resolved issue where some user data not stored and displayed in profile screen
 - Changed text "ActiveBand.Sync.App" shown during Bluetooth permissions prompt to tenant specific text
+- Resolved issue where disconnection may fail leaving connection and characteristics listeners open
+- Resolve issue block read fail could crash application
 
-## v1.0 Wild Otter
+## v1.0.0 Wild Otter
 
 Our first release! 🥳
 

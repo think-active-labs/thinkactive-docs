@@ -1,3 +1,8 @@
+---
+sidebar: false
+outline: false
+---
+
 # ThinkActive Cloud Privacy & Cookies Policy
 
 > Last updated: 15/09/2022

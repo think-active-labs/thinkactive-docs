@@ -24,7 +24,7 @@ This message states that the device could not be found by the sync process. Ensu
 
 Should you still be unable to sync the device check that the device is not currently being [communicated with](#) - ActiveBand can only communicate with one device at a time and will be temporarily unavailable for sync on some platforms for up to 60 seconds after the last communication.
 
-If the device not found message persists try [restarting the ActiveBand](/docs/using-activeband/device-states#reboot) as well as restarting the device with the sync application on it.
+If the device not found message persists try [restarting the ActiveBand](/docs/using-activeband/infinitime-device-states#reboot) as well as restarting the device with the sync application on it.
 
 ## Something Went Wrong Message
 

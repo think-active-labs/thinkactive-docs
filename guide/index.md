@@ -4,8 +4,8 @@ Welcome to ThinkActive's documentation site. This site provides you with detaile
 
 ## What's covered?
 
-- [Learn more about ThinkActive Cloud](/docs/thinkactive-cloud/) and how to integrate with our cloud platform 
+- [Learn more about ThinkActive Cloud](/docs/thinkactive-cloud/organisations) and how to integrate with our cloud platform 
 - Dive into our engineering documentation for [building applications using ActiveBand](/docs/developing-for-activeband/)
-- [Learn about ThinkActive Sync App](/docs/thinkactive-sync-app/) and get help diagnosing sync and setup errors
+- [Learn about ThinkActive Sync App](/docs/thinkactive-sync-app/getting-started) and get help diagnosing sync and setup errors
 - [Get help using our supported ActiveBand devices](#)
 - Much more as we continue to add to our ThinkActive service!

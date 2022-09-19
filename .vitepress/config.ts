@@ -95,14 +95,34 @@ export default defineConfig({
           text: 'ThinkActive Cloud',
           items: [
             {
-              text: 'Coming Soon...',
-              link: '/docs/thinkactive-cloud/',
+              text: 'Organisations',
+              link: '/docs/thinkactive-cloud/organisations'
+            },
+            {
+              text: 'Deployments',
+              link: '/docs/thinkactive-cloud/deployments',
+            },
+            {
+              text: 'Devices',
+              link: '/docs/thinkactive-cloud/devices',
             },
           ],
         },
         {
           text: 'ThinkActive Sync App',
           items: [
+            {
+              text: 'Getting Started',
+              link: '/docs/thinkactive-sync-app/getting-started',
+            },
+            {
+              text: 'General Usage',
+              link: '/docs/thinkactive-sync-app/general-usage',
+            },
+            {
+              text: 'Sync Issues',
+              link: '/docs/thinkactive-sync-app/sync-issues',
+            },
             {
               text: 'Release Notes',
               link: '/docs/thinkactive-sync-app/release-notes',
@@ -133,10 +153,6 @@ export default defineConfig({
             {
               text: 'Device States',
               link: '/docs/using-activeband/device-states',
-            },
-            {
-              text: 'Sync Issues',
-              link: '/docs/using-activeband/sync-issues',
             },
           ],
         },

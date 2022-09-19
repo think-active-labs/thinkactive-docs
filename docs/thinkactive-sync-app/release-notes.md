@@ -2,6 +2,15 @@
 
 [[toc]]
 
+## v1.1.2 Wandering Panda
+
+### New Features
+- ThinkActive Cloud v1.4.2 full support including user login and data sync
+- Support for Android Custom Tabs Service Android 11 upwards for authentication
+
+### Bug Fixes
+- Resolved issue where synced data may have timestamps repaired incorrectly resulting in future dated data
+
 ## v1.1.0 Blue Firefly
 
 ### New Features

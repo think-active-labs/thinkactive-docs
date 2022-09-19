@@ -1,6 +1,6 @@
 # Why ThinkActive
 
-Our team have worked with sensors and devices for almost 10 years with industry and academia. Throughout our many data collection projects over this time we have constructed a range of toolsets, platforms and services to collect this data for analysis and presentation.
+Our team have worked with sensors and devices for almost 10 years within industry and academia. Throughout our many data collection projects over this time we have constructed a range of toolsets, platforms and services to collect this data for analysis and presentation.
 
 This led us to the realisation that tooling for distributed data collection and analysis is not mature. Tooling was either too specific to certain brands or devices or use-cases. We needed a tool that was a generalised data capture service which was king with timeseries data gathering from distributed devices.
 

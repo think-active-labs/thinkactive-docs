@@ -14,6 +14,7 @@ We are continuously expanding our support for devices. At present we support the
 - iWOWN i3
 - MII Band 3
 - Apple Watch
+- [Polar Sensors](https://www.polar.com/en/all-sensors)
 - Need something else? [Get in touch](#)
 
 We endeavour to support as many devices as we can. Typically we simply need methods to access RAW sensor data values to get started!
@@ -33,4 +34,9 @@ Our ThinkActive Sync App is funamentally multi-tenant. We offer bespoke software
 
 ## ThinkActive Cloud
 
-ThinkActive Cloud features coming soon...
+ThinkActive Cloud allows organisations, reserachers and individuals to manage and coordinate their deployments;
+
+- View data collected from distributed sensing devices within your Cloud portal
+- Manage collected data and export data in open data formats
+- Build data insights with our processed data sources and RAW formats
+- Orchestrate deployments and asset management with our simple tooling

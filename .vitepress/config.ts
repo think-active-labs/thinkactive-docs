@@ -116,16 +116,21 @@ export default defineConfig({
               link: '/docs/thinkactive-sync-app/getting-started',
             },
             {
-              text: 'General Usage',
-              link: '/docs/thinkactive-sync-app/general-usage',
-            },
-            {
               text: 'Sync Issues',
               link: '/docs/thinkactive-sync-app/sync-issues',
             },
             {
               text: 'Release Notes',
               link: '/docs/thinkactive-sync-app/release-notes',
+            },
+          ],
+        },
+        {
+          text: 'Using ActiveBand',
+          items: [
+            {
+              text: 'InfiniTime Device States',
+              link: '/docs/using-activeband/infinitime-device-states',
             },
           ],
         },
@@ -146,16 +151,7 @@ export default defineConfig({
               link: '/docs/developing-for-activeband/',
             },
           ],
-        },
-        {
-          text: 'Using ActiveBand',
-          items: [
-            {
-              text: 'InfiniTime Device States',
-              link: '/docs/using-activeband/infinitime-device-states',
-            },
-          ],
-        },
+        }
       ],
     },
   },

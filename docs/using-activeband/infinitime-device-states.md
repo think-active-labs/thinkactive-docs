@@ -1,9 +1,9 @@
 ---
-title: ActiveBand Device States
-description: Information regarding the different states ActiveBand can be in
+title: InfiniTime Device States
+description: Information regarding the different states InfiniTime devices can be in
 ---
 
-# Device States
+# InfiniTime Device States
 
 Each supported ActiveBand device has a number of different device states. ActiveBand devices in their typical operation mode are what we call **Production Mode**. It may be neccesary to use the steps on this page to put ActiveBand devices into certain modes in order to resolve issues.
 

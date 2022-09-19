@@ -151,8 +151,8 @@ export default defineConfig({
           text: 'Using ActiveBand',
           items: [
             {
-              text: 'Device States',
-              link: '/docs/using-activeband/device-states',
+              text: 'InfiniTime Device States',
+              link: '/docs/using-activeband/infinitime-device-states',
             },
           ],
         },

@@ -11,9 +11,12 @@ hero:
   tagline: Distributed sensor data management made simple!
   image:
     src: /favicon.svg
-    alt: Vitest
+    alt: ThinkActive Cloud
   actions:
     - theme: brand
+      text: Open ThinkActive Cloud
+      link: https://cloud.thinkactive.io
+    - theme: alt
       text: Documentation
       link: /guide/
     - theme: alt
@@ -22,9 +25,6 @@ hero:
     - theme: alt
       text: Why ThinkActive?
       link: /guide/why
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/think-active-labs
 
 features:
   - title: Distributed Data Collection

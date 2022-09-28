@@ -20,9 +20,6 @@ hero:
       text: Documentation
       link: /guide/
     - theme: alt
-      text: Features
-      link: /guide/features
-    - theme: alt
       text: Why ThinkActive?
       link: /guide/why
 

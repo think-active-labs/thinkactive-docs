@@ -11,10 +11,12 @@ outline: deep
 We are continuously expanding our support for devices. At present we support the following:
 
 - PineTime running InfiniTime OS
-- iWOWN i3
-- MII Band 3
+- [Axivity AX3](https://axivity.com/product/ax3)
+- [Axivity AX6](https://axivity.com/product/ax6)
 - Apple Watch
 - [Polar Sensors](https://www.polar.com/en/all-sensors)
+- iWOWN i3
+- MII Band 3
 - Need something else? [Get in touch](#)
 
 We endeavour to support as many devices as we can. Typically we simply need methods to access RAW sensor data values to get started!

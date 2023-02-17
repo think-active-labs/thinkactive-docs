@@ -4,7 +4,7 @@ ThinkActive Sync App allows your end users and participants to collect sensor da
 
 ## Using the right app for your team
 
-![ThinkActive Sync Splash](./thinkactive_sync_splash.jpeg) ![KiActiv Sync Splash](./thinkactive_sync_kiactiv.jpeg)
+![ThinkActive Sync Splash](./thinkactive_sync_splash.jpeg)
 
 ThinkActive Sync is a multi-tenant application. Your organisation can have a custom version of this application submitted to the store should you wish. The instructions below are designed for users of ThinkActive Sync. Some of the steps may vary slightly with custom versions of Thinkactive Sync.
 

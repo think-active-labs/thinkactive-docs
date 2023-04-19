@@ -51,10 +51,8 @@ export default defineConfig({
       text: 'Suggest changes to this page',
     },
 
-    algolia: {
-      appId: 'FQ2FOZFRJB',
-      apiKey: '2cdfc08f83ca02afe15ed8d5fb4e8925',
-      indexName: 'thinkactive',
+    search: {
+      provider: 'local'
     },
 
     socialLinks: [

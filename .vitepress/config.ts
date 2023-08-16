@@ -66,7 +66,7 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'ClassKit', link: 'https://thinkactivekit.com/' },
+      { text: 'ClassKit', link: 'https://classkit.thinkactive.io/' },
       { text: 'Documentation', link: '/guide/' },
     ],
 
